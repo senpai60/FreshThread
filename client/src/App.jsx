@@ -1,8 +1,9 @@
-import React from 'react'
 
 function App() {
   return (
-    <div>App</div>
+    <main className="w-full h-screen bg-zinc-950 text-white">
+      
+    </main>
   )
 }
 
